@@ -8,11 +8,6 @@ The Customer Purchase Pattern Analyzer is an end-to-end Data Analytics and Busin
 
 The project uses PostgreSQL, SQL, Excel, and Power BI to identify customer segments, revenue trends, product performance, and high-value customers that can support business decision-making.
 
----
-
-## Dashboard Preview
-
-![Dashboard](dashboard_overview.png)
 
 ---
 
