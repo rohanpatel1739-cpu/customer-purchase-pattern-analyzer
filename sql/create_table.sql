@@ -1,0 +1,22 @@
+CREATE TABLE customer_purchase (
+    customer_id VARCHAR(20),
+    customer_name VARCHAR(100),
+    age INT,
+    gender VARCHAR(20),
+    city VARCHAR(50),
+    region VARCHAR(50),
+    occupation VARCHAR(100),
+    product_category VARCHAR(100),
+    product_name VARCHAR(100),
+    purchase_date DATE,
+    quantity_purchased INT,
+    unit_price INT,
+    total_purchase_value INT,
+    payment_method VARCHAR(50),
+    purchase_channel VARCHAR(50),
+    customer_segment VARCHAR(50),
+    loyalty_status VARCHAR(50),
+    discount_used VARCHAR(20),
+    purchase_frequency VARCHAR(50),
+    last_purchase_date DATE
+);
