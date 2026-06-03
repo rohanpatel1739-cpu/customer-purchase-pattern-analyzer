@@ -1,0 +1,201 @@
+customer_id,customer_name,age,gender,city,region,occupation,product_category,product_name,purchase_date,quantity_purchased, unit_price,total_purchase_value,payment_method,purchase_channel,customer_segment,loyalty_status,discount_used,purchase_frequency,last_purchase_date
+C001,Jayant Desai,61,Male,Surat,West,Sales Executive,Electronics,Bluetooth Speaker,22-05-2024,2,799,1598,Cash,Online,Premium,Gold,5%,Monthly,25-04-2024
+C002,Vedika Dugar,55,Female,Mumbai,West,Engineer,Beauty,Perfume,13-08-2024,5,1999,9995,Credit Card,Store,Regular,Bronze,5%,Monthly,20-04-2024
+C003,Yuvaan Gulati,56,Female,Bhubaneswar,East,Engineer,Electronics,Headphones,02-01-2025,4,299,1196,Cash,Online,Regular,Gold,20%,Quarterly,05-10-2024
+C004,Zaina Bansal,36,Male,Ranchi,East,Manager,Beauty,Perfume,08-11-2025,1,199,199,UPI,Store,Regular,None,10%,Monthly,10-09-2025
+C005,Adira Bhatnagar,28,Male,Ranchi,East,Student,Grocery,Rice Pack,15-09-2025,3,299,897,Cash,Store,Regular,Silver,10%,Weekly,05-04-2025
+C006,Hiran Vaidya,54,Female,Chandigarh,North,Manager,Electronics,Bluetooth Speaker,08-03-2024,4,999,3996,Cash,Store,Budget,None,5%,Quarterly,13-01-2024
+C007,Kartik Savant,55,Female,Delhi,North,Doctor,Fashion,Jacket,21-08-2025,5,999,4995,Credit Card,Online,Budget,None,0%,Weekly,03-05-2025
+C008,Piya Ramesh,42,Female,Surat,West,Consultant,Fashion,T-Shirt,06-03-2024,4,4999,19996,Debit Card,Online,Budget,Gold,20%,Quarterly,28-11-2023
+C009,Parinaaz Malhotra,64,Female,Bhubaneswar,East,Consultant,Electronics,Bluetooth Speaker,09-04-2025,4,499,1996,Credit Card,Online,Budget,Bronze,20%,Monthly,08-04-2025
+C010,Miraan Bora,38,Female,Delhi,North,Engineer,Grocery,Rice Pack,01-01-2024,5,2999,14995,UPI,Store,Regular,Silver,0%,Monthly,31-07-2023
+C011,Hrishita Khatri,60,Female,Ahmedabad,West,Consultant,Electronics,Laptop Bag,08-05-2024,1,2999,2999,Credit Card,Store,Budget,None,5%,Monthly,05-04-2024
+C012,Nitya Kade,33,Male,Patna,East,Teacher,Home Decor,Curtains,07-04-2025,4,2999,11996,Debit Card,Online,Budget,Silver,20%,Monthly,07-03-2025
+C013,Reyansh Sastry,22,Male,Mumbai,West,Business Owner,Electronics,Headphones,02-02-2024,2,299,598,Cash,Online,Budget,Silver,20%,Occasional,09-11-2023
+C014,Bhavin Ramaswamy,45,Female,Chandigarh,North,Accountant,Home Decor,Vase,09-04-2024,2,299,598,Cash,Store,Budget,Gold,0%,Weekly,23-10-2023
+C015,Yashvi Wable,46,Male,Bengaluru,South,Accountant,Grocery,Organic Food,13-07-2024,2,799,1598,Credit Card,Store,Regular,Silver,0%,Occasional,26-02-2024
+C016,Saksham Iyer,44,Female,Surat,West,Designer,Electronics,Power Bank,30-08-2024,1,299,299,Credit Card,Store,Premium,Silver,15%,Weekly,18-07-2024
+C017,Tara Wali,60,Female,Bengaluru,South,Student,Grocery,Snacks,14-12-2025,3,1999,5997,Credit Card,Store,Premium,Gold,20%,Weekly,24-07-2025
+C018,Renee Dhawan,28,Male,Bhubaneswar,East,Consultant,Electronics,Headphones,29-05-2025,5,2499,12495,UPI,Online,Premium,Gold,5%,Occasional,13-01-2025
+C019,Divyansh Yohannan,23,Female,Surat,West,Sales Executive,Beauty,Perfume,10-02-2024,5,4999,24995,Net Banking,Store,Regular,Silver,10%,Monthly,04-09-2023
+C020,Urvi Ratti,18,Female,Kolkata,East,Sales Executive,Home Decor,Wall Art,19-11-2024,3,2499,7497,Net Banking,Online,Premium,Silver,20%,Quarterly,31-10-2024
+C021,Shalv Barad,46,Female,Delhi,North,Sales Executive,Grocery,Organic Food,18-10-2024,2,1499,2998,Net Banking,Online,Budget,Bronze,0%,Monthly,07-09-2024
+C022,Adah Dutt,56,Male,Kolkata,East,Doctor,Electronics,Headphones,05-10-2024,5,499,2495,Credit Card,Store,Budget,None,10%,Weekly,24-07-2024
+C023,Neelofar Madan,58,Female,Ahmedabad,West,Student,Home Decor,Curtains,07-12-2024,1,199,199,Cash,Store,Budget,Gold,0%,Weekly,03-11-2024
+C024,Jayesh Sharaf,45,Male,Delhi,North,Engineer,Beauty,Face Wash,19-07-2025,3,4999,14997,Debit Card,Store,Premium,Bronze,5%,Monthly,11-06-2025
+C025,Ela Acharya,28,Male,Surat,West,Accountant,Grocery,Beverages,07-06-2024,4,4999,19996,UPI,Online,Budget,Bronze,15%,Monthly,07-04-2024
+C026,Renee Bal,30,Female,Kolkata,East,Doctor,Fashion,Handbag,26-04-2025,4,199,796,Debit Card,Online,Premium,Gold,5%,Occasional,28-02-2025
+C027,Vedika Rama,43,Female,Bhubaneswar,East,Engineer,Grocery,Organic Food,18-10-2025,3,1499,4497,UPI,Store,Premium,Bronze,0%,Weekly,09-06-2025
+C028,Nirvaan Gera,42,Male,Chennai,South,Business Owner,Grocery,Cooking Oil,07-06-2025,4,4999,19996,UPI,Store,Premium,Silver,10%,Occasional,08-05-2025
+C029,Onkar Vig,37,Female,Ahmedabad,West,Doctor,Grocery,Beverages,03-11-2024,3,299,897,Cash,Store,Budget,Silver,5%,Occasional,26-06-2024
+C030,Priyansh Doshi,18,Female,Bengaluru,South,Business Owner,Fashion,Jacket,19-02-2025,5,999,4995,Credit Card,Store,Budget,Bronze,15%,Occasional,01-10-2024
+C031,Saira Babu,36,Female,Hyderabad,South,Teacher,Fashion,Jacket,05-11-2025,4,499,1996,Credit Card,Store,Premium,Silver,5%,Weekly,14-10-2025
+C032,Urvi Venkatesh,58,Male,Pune,West,Accountant,Fashion,Sneakers,11-04-2025,5,299,1495,Cash,Store,Premium,Silver,0%,Weekly,25-12-2024
+C033,Yakshit Loke,33,Male,Chennai,South,Designer,Fashion,T-Shirt,21-02-2024,5,2499,12495,Credit Card,Store,Budget,Bronze,15%,Occasional,01-10-2023
+C034,Indrans Shroff,35,Female,Hyderabad,South,Manager,Fashion,Sneakers,10-09-2024,4,999,3996,Debit Card,Store,Premium,Bronze,5%,Quarterly,30-03-2024
+C035,Indrans Varma,42,Male,Bhubaneswar,East,Manager,Grocery,Beverages,03-06-2024,1,499,499,UPI,Store,Regular,Bronze,20%,Occasional,04-04-2024
+C036,Ojas Sarin,19,Female,Chennai,South,Designer,Electronics,Smart Watch,21-08-2025,4,1999,7996,UPI,Store,Regular,None,15%,Monthly,23-02-2025
+C037,Amira Kaul,39,Female,Kochi,South,Student,Fashion,Jeans,30-01-2024,4,2499,9996,Cash,Online,Budget,Gold,15%,Weekly,22-10-2023
+C038,Kiara Golla,42,Female,Ahmedabad,West,Manager,Home Decor,Wall Art,21-02-2024,4,499,1996,Cash,Store,Regular,None,10%,Occasional,16-12-2023
+C039,Mishti Singhal,32,Male,Kolkata,East,Engineer,Electronics,Laptop Bag,23-02-2024,1,2999,2999,UPI,Online,Premium,Gold,20%,Monthly,25-11-2023
+C040,Tarini Rana,62,Female,Chandigarh,North,Doctor,Fashion,Sneakers,11-08-2024,1,4999,4999,Credit Card,Online,Premium,Bronze,0%,Weekly,13-04-2024
+C041,Zeeshan Setty,62,Male,Patna,East,Teacher,Beauty,Lipstick,18-03-2024,4,799,3196,Debit Card,Online,Budget,Gold,10%,Occasional,18-10-2023
+C042,Pranay Chawla,24,Female,Ranchi,East,Doctor,Electronics,Power Bank,06-03-2025,3,199,597,Cash,Online,Regular,Silver,20%,Quarterly,31-10-2024
+C043,Hazel Dugar,23,Female,Kochi,South,Designer,Home Decor,Vase,26-11-2024,5,999,4995,Credit Card,Store,Budget,None,10%,Weekly,24-09-2024
+C044,Abram Jha,39,Female,Kochi,South,Sales Executive,Grocery,Rice Pack,29-12-2024,4,799,3196,Debit Card,Online,Budget,Silver,0%,Monthly,23-10-2024
+C045,Ojas Bajaj,46,Male,Chennai,South,Teacher,Home Decor,Cushion Set,23-10-2025,2,2499,4998,Debit Card,Online,Regular,Silver,10%,Quarterly,19-06-2025
+C046,Vedika Tak,40,Female,Kochi,South,Business Owner,Beauty,Shampoo,17-07-2025,3,1999,5997,Debit Card,Store,Premium,Gold,5%,Quarterly,23-04-2025
+C047,Anahita Kaur,64,Female,Surat,West,Teacher,Beauty,Perfume,10-05-2025,2,799,1598,Credit Card,Store,Premium,Bronze,5%,Quarterly,28-02-2025
+C048,Keya Raval,36,Male,Mumbai,West,Designer,Beauty,Perfume,25-02-2024,3,199,597,UPI,Online,Budget,Bronze,15%,Occasional,06-10-2023
+C049,Anvi Deep,22,Female,Hyderabad,South,Designer,Grocery,Rice Pack,04-05-2025,1,999,999,UPI,Online,Premium,Silver,20%,Quarterly,04-04-2025
+C050,Aarna Sachdeva,57,Male,Ahmedabad,West,Consultant,Fashion,Handbag,12-09-2025,5,1999,9995,Cash,Store,Regular,Bronze,20%,Occasional,12-04-2025
+C051,Yakshit Sridhar,58,Male,Patna,East,Business Owner,Beauty,Shampoo,11-04-2024,1,4999,4999,UPI,Online,Premium,Silver,20%,Weekly,17-02-2024
+C052,Ritvik Tella,20,Male,Jaipur,North,Business Owner,Electronics,Laptop Bag,26-04-2025,4,4999,19996,Debit Card,Store,Premium,Silver,10%,Monthly,10-02-2025
+C053,Dishani Rattan,22,Male,Chennai,South,Student,Electronics,Power Bank,29-09-2024,2,499,998,Debit Card,Store,Regular,Gold,15%,Quarterly,23-08-2024
+C054,Divit Saraf,56,Male,Bengaluru,South,Accountant,Grocery,Beverages,24-03-2025,5,2499,12495,Debit Card,Store,Premium,Gold,5%,Weekly,03-03-2025
+C055,Chirag Sandal,46,Female,Kolkata,East,Student,Beauty,Face Wash,15-06-2025,2,2499,4998,Net Banking,Store,Budget,None,0%,Occasional,30-12-2024
+C056,Rhea Rao,44,Female,Ranchi,East,Business Owner,Home Decor,Curtains,13-06-2024,3,299,897,Cash,Online,Regular,Gold,10%,Quarterly,20-03-2024
+C057,Hridaan Tella,47,Female,Bhubaneswar,East,Engineer,Electronics,Laptop Bag,04-11-2025,5,199,995,Credit Card,Store,Budget,None,15%,Weekly,18-06-2025
+C058,Kashvi Manne,49,Male,Lucknow,North,Engineer,Grocery,Beverages,24-03-2025,2,999,1998,Net Banking,Online,Budget,Silver,10%,Weekly,26-09-2024
+C059,Kismat Bains,27,Female,Chennai,South,Business Owner,Electronics,Smart Watch,30-04-2024,1,2499,2499,Net Banking,Store,Regular,None,15%,Monthly,16-11-2023
+C060,Miraan Bhatnagar,65,Male,Hyderabad,South,Teacher,Beauty,Perfume,05-09-2025,4,799,3196,Debit Card,Store,Regular,Bronze,0%,Quarterly,27-04-2025
+C061,Dhanuk Deshmukh,48,Female,Patna,East,Doctor,Beauty,Shampoo,02-04-2025,4,499,1996,Net Banking,Store,Regular,Bronze,5%,Monthly,15-11-2024
+C062,Vidur Sodhi,42,Male,Bengaluru,South,Designer,Fashion,Sneakers,29-04-2025,1,1499,1499,UPI,Online,Budget,Bronze,0%,Occasional,21-01-2025
+C063,Azad Sane,27,Male,Surat,West,Designer,Beauty,Lipstick,23-02-2025,1,499,499,Debit Card,Store,Budget,None,0%,Quarterly,08-09-2024
+C064,Nayantara Lall,33,Female,Bengaluru,South,Manager,Grocery,Snacks,24-09-2025,5,199,995,UPI,Store,Premium,Gold,15%,Monthly,06-09-2025
+C065,Navya Barman,41,Female,Patna,East,Student,Electronics,Headphones,27-10-2024,3,199,597,Credit Card,Store,Budget,Silver,5%,Monthly,27-07-2024
+C066,Jivin Raju,27,Male,Ahmedabad,West,Designer,Beauty,Lipstick,24-05-2025,5,799,3995,Debit Card,Store,Regular,Gold,15%,Quarterly,25-12-2024
+C067,Priyansh Kala,45,Female,Jaipur,North,Designer,Electronics,Laptop Bag,02-11-2024,3,4999,14997,Debit Card,Online,Regular,None,0%,Monthly,22-05-2024
+C068,Anika Mandal,19,Female,Bengaluru,South,Business Owner,Beauty,Moisturizer,17-12-2025,5,999,4995,UPI,Online,Budget,None,10%,Monthly,02-10-2025
+C069,Trisha Ahuja,61,Male,Ranchi,East,Teacher,Fashion,T-Shirt,25-11-2025,5,999,4995,UPI,Store,Regular,Gold,20%,Quarterly,09-06-2025
+C070,Ayesha Krishnan,26,Female,Delhi,North,Consultant,Electronics,Bluetooth Speaker,28-06-2024,3,1999,5997,Net Banking,Store,Premium,Bronze,15%,Quarterly,07-05-2024
+C071,Sara Dalal,64,Female,Bhubaneswar,East,Consultant,Electronics,Laptop Bag,19-08-2024,1,499,499,Debit Card,Online,Regular,Gold,10%,Weekly,27-02-2024
+C072,Manikya Krish,24,Male,Hyderabad,South,Designer,Grocery,Cooking Oil,15-10-2025,5,1999,9995,UPI,Store,Budget,Silver,0%,Occasional,11-07-2025
+C073,Nitya Bhagat,49,Male,Patna,East,Teacher,Home Decor,Lamp,08-02-2024,2,199,398,Credit Card,Online,Regular,None,10%,Occasional,22-11-2023
+C074,Indrans Gokhale,20,Female,Delhi,North,Manager,Home Decor,Lamp,21-02-2025,4,4999,19996,Cash,Store,Premium,Bronze,0%,Quarterly,11-12-2024
+C075,Umang Choudhary,23,Male,Ranchi,East,Sales Executive,Electronics,Laptop Bag,05-05-2024,3,799,2397,UPI,Online,Regular,Silver,5%,Monthly,09-01-2024
+C076,Ritvik Basak,27,Male,Ahmedabad,West,Business Owner,Beauty,Perfume,26-08-2024,5,799,3995,Credit Card,Online,Budget,Bronze,5%,Weekly,02-06-2024
+C077,Sumer Zachariah,19,Male,Mumbai,West,Business Owner,Fashion,Handbag,25-08-2025,3,799,2397,UPI,Online,Budget,None,20%,Weekly,03-06-2025
+C078,Reyansh Yohannan,46,Male,Ahmedabad,West,Sales Executive,Home Decor,Vase,30-08-2025,3,2999,8997,UPI,Store,Regular,Gold,0%,Occasional,02-08-2025
+C079,Pranay Arora,38,Male,Bengaluru,South,Teacher,Home Decor,Lamp,16-03-2024,4,2499,9996,Credit Card,Store,Budget,Bronze,15%,Quarterly,24-02-2024
+C080,Jayant Walla,59,Male,Hyderabad,South,Accountant,Beauty,Shampoo,19-12-2025,4,299,1196,Cash,Online,Regular,Bronze,15%,Occasional,19-11-2025
+C081,Aaina Upadhyay,41,Male,Chennai,South,Designer,Electronics,Bluetooth Speaker,12-11-2025,4,1499,5996,UPI,Online,Premium,Gold,15%,Weekly,07-09-2025
+C082,Aayush Mangat,39,Male,Ranchi,East,Accountant,Fashion,Jacket,29-07-2025,1,4999,4999,Debit Card,Store,Budget,Gold,10%,Quarterly,07-03-2025
+C083,Ishaan Randhawa,48,Male,Ranchi,East,Teacher,Electronics,Power Bank,07-06-2024,5,799,3995,Debit Card,Store,Premium,Bronze,20%,Monthly,21-12-2023
+C084,Yashvi Baral,60,Female,Chennai,South,Engineer,Beauty,Shampoo,27-01-2024,5,2999,14995,Credit Card,Store,Budget,Bronze,10%,Quarterly,24-08-2023
+C085,Mishti Ganesan,65,Male,Mumbai,West,Teacher,Fashion,T-Shirt,12-03-2024,5,1999,9995,Net Banking,Online,Regular,None,15%,Quarterly,04-02-2024
+C086,Aniruddh Tiwari,21,Male,Jaipur,North,Student,Grocery,Cooking Oil,02-09-2025,3,4999,14997,Net Banking,Online,Budget,Gold,10%,Occasional,11-08-2025
+C087,Ritvik Balay,50,Male,Chennai,South,Doctor,Home Decor,Cushion Set,06-10-2024,4,1999,7996,Cash,Online,Regular,None,20%,Quarterly,11-08-2024
+C088,Hiran Ray,37,Male,Pune,West,Student,Fashion,Sneakers,08-01-2024,5,199,995,Debit Card,Store,Regular,Gold,0%,Occasional,16-11-2023
+C089,Pihu Char,50,Female,Chennai,South,Teacher,Fashion,T-Shirt,21-12-2025,4,2999,11996,Cash,Online,Regular,Gold,15%,Weekly,23-10-2025
+C090,Divit Ben,44,Female,Bhubaneswar,East,Teacher,Beauty,Lipstick,27-12-2025,5,1999,9995,Cash,Online,Regular,Silver,20%,Occasional,16-07-2025
+C091,Dhanush Varty,43,Male,Ranchi,East,Accountant,Electronics,Laptop Bag,22-03-2025,1,799,799,Debit Card,Store,Premium,Bronze,5%,Weekly,22-10-2024
+C092,Prisha Keer,27,Male,Surat,West,Teacher,Beauty,Shampoo,25-12-2024,2,1499,2998,Credit Card,Store,Premium,Silver,20%,Monthly,12-07-2024
+C093,Anahita Chakrabarti,61,Female,Ahmedabad,West,Doctor,Fashion,Sneakers,16-08-2025,4,4999,19996,Credit Card,Store,Premium,None,15%,Quarterly,23-04-2025
+C094,Jivika Mane,47,Female,Kolkata,East,Engineer,Beauty,Face Wash,16-03-2024,3,2999,8997,UPI,Store,Regular,Gold,0%,Occasional,27-12-2023
+C095,Armaan Thakkar,30,Female,Hyderabad,South,Sales Executive,Beauty,Shampoo,08-08-2025,1,2499,2499,Cash,Online,Premium,None,0%,Quarterly,22-02-2025
+C096,Indrajit Chokshi,46,Male,Ahmedabad,West,Doctor,Beauty,Perfume,25-12-2025,1,799,799,Debit Card,Store,Regular,None,10%,Weekly,03-09-2025
+C097,Arhaan Bera,36,Female,Bhubaneswar,East,Sales Executive,Electronics,Bluetooth Speaker,25-11-2025,1,2999,2999,Credit Card,Store,Premium,Silver,10%,Quarterly,18-08-2025
+C098,Mohanlal Yadav,59,Female,Bengaluru,South,Student,Fashion,Jacket,26-07-2025,1,999,999,Net Banking,Online,Budget,None,20%,Quarterly,20-04-2025
+C099,Aarav Sabharwal,30,Male,Mumbai,West,Student,Grocery,Cooking Oil,15-12-2024,2,799,1598,Credit Card,Online,Regular,Gold,20%,Weekly,12-08-2024
+C100,Jayan Chaudhary,29,Male,Bhubaneswar,East,Designer,Beauty,Perfume,06-06-2024,5,1999,9995,UPI,Store,Regular,Silver,15%,Quarterly,25-04-2024
+C101,Kashvi Viswanathan,41,Female,Hyderabad,South,Designer,Fashion,Jacket,25-04-2025,2,999,1998,Debit Card,Store,Budget,None,5%,Monthly,06-03-2025
+C102,Nishith Shere,63,Male,Delhi,North,Business Owner,Grocery,Organic Food,21-07-2025,4,1499,5996,UPI,Online,Regular,None,20%,Monthly,24-06-2025
+C103,Nayantara Gokhale,21,Female,Chennai,South,Consultant,Electronics,Smart Watch,28-01-2024,4,1499,5996,Debit Card,Online,Regular,Gold,10%,Monthly,13-10-2023
+C104,Eva Deshpande,36,Female,Mumbai,West,Student,Grocery,Organic Food,20-05-2024,3,499,1497,Cash,Store,Budget,Gold,0%,Weekly,10-05-2024
+C105,Samar Dar,25,Female,Kolkata,East,Manager,Fashion,T-Shirt,24-06-2025,5,4999,24995,Debit Card,Online,Premium,Silver,15%,Occasional,07-03-2025
+C106,Neysa Lalla,50,Male,Ahmedabad,West,Student,Electronics,Laptop Bag,17-01-2024,5,2999,14995,Debit Card,Store,Premium,Bronze,5%,Occasional,08-08-2023
+C107,Kartik Kalita,50,Male,Jaipur,North,Accountant,Electronics,Power Bank,22-06-2025,3,299,897,Cash,Online,Budget,None,10%,Quarterly,02-02-2025
+C108,Aarush Tandon,24,Female,Mumbai,West,Student,Grocery,Organic Food,03-11-2025,3,799,2397,UPI,Store,Budget,Bronze,5%,Occasional,26-05-2025
+C109,Armaan Rastogi,30,Male,Kochi,South,Manager,Fashion,T-Shirt,07-02-2024,1,2499,2499,UPI,Store,Regular,None,20%,Occasional,23-11-2023
+C110,Himmat Chad,39,Female,Kolkata,East,Teacher,Electronics,Smart Watch,18-02-2024,3,1499,4497,Debit Card,Store,Regular,None,15%,Quarterly,03-09-2023
+C111,Devansh Kapadia,64,Female,Jaipur,North,Teacher,Home Decor,Vase,30-09-2024,3,2999,8997,Cash,Online,Budget,Bronze,10%,Weekly,08-09-2024
+C112,Nehmat Dada,28,Female,Ahmedabad,West,Doctor,Grocery,Cooking Oil,09-09-2025,3,2499,7497,Cash,Online,Budget,Bronze,20%,Occasional,22-05-2025
+C113,Ela Gole,28,Male,Kolkata,East,Student,Electronics,Headphones,09-06-2025,4,1499,5996,Net Banking,Store,Premium,Silver,0%,Monthly,17-12-2024
+C114,Hazel Konda,61,Female,Ranchi,East,Doctor,Grocery,Snacks,11-09-2025,5,199,995,Debit Card,Store,Premium,Silver,20%,Quarterly,02-08-2025
+C115,Shayak Walia,49,Female,Bengaluru,South,Consultant,Grocery,Cooking Oil,27-01-2024,2,299,598,UPI,Store,Regular,None,5%,Quarterly,10-12-2023
+C116,Zain Barad,63,Female,Kochi,South,Teacher,Fashion,Handbag,07-04-2025,2,299,598,Debit Card,Store,Budget,Gold,20%,Quarterly,21-02-2025
+C117,Parinaaz Kaur,30,Male,Patna,East,Manager,Fashion,T-Shirt,17-08-2024,3,2999,8997,Cash,Online,Regular,Bronze,15%,Monthly,16-07-2024
+C118,Mannat Saini,44,Male,Ahmedabad,West,Student,Electronics,Bluetooth Speaker,22-06-2025,4,2499,9996,Debit Card,Online,Regular,None,20%,Quarterly,08-03-2025
+C119,Dharmajan Dixit,21,Male,Delhi,North,Consultant,Beauty,Shampoo,19-03-2025,2,499,998,Credit Card,Store,Premium,Silver,10%,Monthly,10-11-2024
+C120,Riaan Kalita,53,Female,Ranchi,East,Student,Beauty,Moisturizer,20-07-2024,1,999,999,Debit Card,Online,Budget,Silver,20%,Monthly,08-02-2024
+C121,Armaan Halder,23,Male,Jaipur,North,Sales Executive,Beauty,Shampoo,12-02-2024,3,4999,14997,Debit Card,Online,Budget,None,20%,Weekly,04-02-2024
+C122,Indrajit Viswanathan,43,Female,Kochi,South,Designer,Beauty,Moisturizer,07-09-2024,3,2499,7497,UPI,Online,Premium,None,15%,Occasional,15-03-2024
+C123,Zoya Johal,64,Female,Hyderabad,South,Accountant,Fashion,Jeans,16-11-2024,5,499,2495,Credit Card,Store,Budget,Gold,10%,Monthly,26-08-2024
+C124,Shayak Kapoor,21,Female,Hyderabad,South,Accountant,Electronics,Bluetooth Speaker,24-05-2024,4,799,3196,Net Banking,Store,Premium,Silver,10%,Quarterly,29-04-2024
+C125,Nitara Kuruvilla,49,Male,Lucknow,North,Teacher,Fashion,Sneakers,25-05-2025,5,2499,12495,Cash,Store,Premium,Silver,20%,Quarterly,07-03-2025
+C126,Tarini Chandra,48,Female,Pune,West,Consultant,Electronics,Bluetooth Speaker,31-10-2025,4,4999,19996,UPI,Online,Regular,Silver,10%,Quarterly,11-05-2025
+C127,Veer Seshadri,30,Female,Bengaluru,South,Consultant,Grocery,Organic Food,06-08-2025,4,199,796,Debit Card,Online,Regular,None,20%,Quarterly,15-03-2025
+C128,Ehsaan Dada,41,Male,Surat,West,Manager,Fashion,Handbag,13-12-2024,4,1499,5996,Net Banking,Store,Budget,Gold,0%,Weekly,23-07-2024
+C129,Ivan Shenoy,50,Male,Delhi,North,Doctor,Grocery,Snacks,01-06-2024,5,2499,12495,Net Banking,Store,Premium,None,20%,Quarterly,28-12-2023
+C130,Kavya Yadav,37,Female,Bhubaneswar,East,Engineer,Beauty,Shampoo,26-12-2025,5,2499,12495,Debit Card,Store,Budget,Gold,15%,Quarterly,03-08-2025
+C131,Lavanya Borah,64,Male,Mumbai,West,Sales Executive,Beauty,Lipstick,14-08-2025,3,4999,14997,Cash,Online,Budget,None,5%,Monthly,16-06-2025
+C132,Oorja Mallick,44,Male,Pune,West,Accountant,Beauty,Face Wash,27-03-2025,2,199,398,Credit Card,Store,Budget,None,0%,Monthly,05-01-2025
+C133,Hiran Ramakrishnan,29,Female,Lucknow,North,Consultant,Beauty,Moisturizer,20-01-2025,4,2999,11996,Debit Card,Store,Budget,Bronze,20%,Occasional,31-10-2024
+C134,Samarth Sami,36,Male,Lucknow,North,Designer,Fashion,Jeans,18-08-2024,5,999,4995,Debit Card,Store,Regular,Bronze,10%,Weekly,02-06-2024
+C135,Chirag Agarwal,63,Male,Bengaluru,South,Doctor,Home Decor,Curtains,13-02-2024,2,999,1998,Cash,Store,Budget,None,5%,Monthly,01-12-2023
+C136,Riya Madan,33,Male,Kolkata,East,Engineer,Beauty,Moisturizer,22-09-2025,2,299,598,Net Banking,Online,Budget,Silver,0%,Weekly,24-04-2025
+C137,Shayak Dhingra,28,Female,Chennai,South,Designer,Grocery,Snacks,06-01-2024,1,499,499,Cash,Online,Regular,Bronze,10%,Weekly,18-08-2023
+C138,Aayush Dar,29,Male,Ahmedabad,West,Accountant,Beauty,Perfume,28-06-2024,5,199,995,Cash,Online,Budget,Bronze,0%,Weekly,13-03-2024
+C139,Tarini Wadhwa,59,Female,Patna,East,Student,Beauty,Shampoo,18-10-2024,1,1499,1499,Net Banking,Store,Regular,Silver,0%,Quarterly,23-06-2024
+C140,Kimaya Dewan,54,Male,Jaipur,North,Student,Home Decor,Curtains,11-12-2024,2,199,398,Net Banking,Store,Regular,Bronze,0%,Occasional,26-09-2024
+C141,Anahita Brahmbhatt,34,Female,Surat,West,Manager,Fashion,T-Shirt,11-09-2024,4,1499,5996,Cash,Store,Regular,Bronze,20%,Weekly,09-09-2024
+C142,Zain Kadakia,28,Female,Kolkata,East,Consultant,Grocery,Rice Pack,21-04-2025,1,299,299,Debit Card,Online,Budget,Bronze,10%,Monthly,01-02-2025
+C143,Hansh Tella,44,Female,Chandigarh,North,Consultant,Fashion,Sneakers,12-09-2025,2,2499,4998,Credit Card,Online,Budget,Gold,20%,Occasional,08-06-2025
+C144,Kiaan Luthra,30,Male,Ranchi,East,Student,Electronics,Power Bank,14-07-2025,1,199,199,Debit Card,Store,Premium,Silver,20%,Occasional,06-03-2025
+C145,Riaan Krishnan,44,Female,Ahmedabad,West,Sales Executive,Beauty,Lipstick,15-05-2024,1,2499,2499,UPI,Store,Budget,Bronze,0%,Occasional,04-01-2024
+C146,Jiya Comar,40,Male,Kolkata,East,Consultant,Electronics,Smart Watch,16-02-2024,5,299,1495,UPI,Online,Regular,Gold,10%,Occasional,30-10-2023
+C147,Alia Sunder,42,Male,Jaipur,North,Consultant,Fashion,Sneakers,04-04-2025,3,1999,5997,Credit Card,Store,Premium,Silver,20%,Occasional,28-12-2024
+C148,Aaryahi Borra,64,Female,Delhi,North,Consultant,Fashion,Handbag,19-04-2025,1,999,999,Cash,Online,Premium,None,10%,Monthly,28-10-2024
+C149,Alia Badal,33,Male,Kolkata,East,Teacher,Fashion,Handbag,21-09-2025,1,1999,1999,UPI,Online,Regular,Gold,5%,Weekly,16-09-2025
+C150,Ojas Goswami,50,Female,Bengaluru,South,Manager,Home Decor,Wall Art,27-02-2024,5,799,3995,Net Banking,Store,Budget,Bronze,5%,Quarterly,22-01-2024
+C151,Pari Ratta,53,Male,Delhi,North,Accountant,Beauty,Perfume,08-10-2024,4,999,3996,Net Banking,Store,Premium,Bronze,15%,Quarterly,22-09-2024
+C152,Heer Dhaliwal,48,Male,Chennai,South,Manager,Home Decor,Wall Art,07-07-2024,3,1999,5997,Debit Card,Online,Regular,Gold,20%,Occasional,20-02-2024
+C153,Rohan Srivastava,31,Female,Chennai,South,Teacher,Beauty,Shampoo,05-09-2024,2,1999,3998,Cash,Store,Premium,Silver,0%,Quarterly,01-07-2024
+C154,Mishti Batta,64,Male,Bengaluru,South,Designer,Beauty,Shampoo,11-07-2024,1,299,299,Credit Card,Store,Regular,Gold,5%,Monthly,11-02-2024
+C155,Shlok Baria,53,Female,Surat,West,Business Owner,Home Decor,Wall Art,10-02-2025,5,799,3995,Cash,Store,Budget,Bronze,10%,Quarterly,10-12-2024
+C156,Yasmin Arya,31,Female,Ranchi,East,Doctor,Beauty,Lipstick,25-04-2025,4,299,1196,Cash,Online,Budget,Silver,5%,Weekly,02-02-2025
+C157,Samaira Wason,30,Female,Kolkata,East,Manager,Beauty,Shampoo,29-10-2024,5,1999,9995,Cash,Online,Regular,Bronze,10%,Occasional,19-09-2024
+C158,Fateh Mandal,49,Male,Kochi,South,Consultant,Home Decor,Wall Art,23-05-2024,3,499,1497,UPI,Online,Premium,Gold,0%,Occasional,04-01-2024
+C159,Miraan Keer,47,Female,Delhi,North,Engineer,Fashion,Handbag,11-08-2024,2,199,398,Net Banking,Store,Budget,None,0%,Weekly,03-04-2024
+C160,Chirag Bala,19,Female,Chennai,South,Student,Electronics,Headphones,02-07-2025,5,999,4995,UPI,Online,Budget,Silver,5%,Monthly,19-04-2025
+C161,Faiyaz Sahni,47,Male,Kolkata,East,Manager,Grocery,Cooking Oil,17-01-2025,4,299,1196,Debit Card,Online,Budget,Gold,0%,Occasional,05-10-2024
+C162,Dhruv Chand,62,Male,Bengaluru,South,Teacher,Home Decor,Cushion Set,14-10-2025,4,199,796,Cash,Store,Budget,Bronze,20%,Weekly,11-10-2025
+C163,Taran Singhal,22,Female,Pune,West,Consultant,Fashion,T-Shirt,04-10-2024,5,2499,12495,Net Banking,Online,Premium,Bronze,0%,Monthly,22-09-2024
+C164,Vivaan Sood,54,Female,Delhi,North,Consultant,Home Decor,Lamp,31-07-2025,3,499,1497,Debit Card,Store,Budget,Silver,0%,Quarterly,30-05-2025
+C165,Farhan Tiwari,57,Female,Pune,West,Doctor,Electronics,Laptop Bag,14-12-2024,2,299,598,UPI,Store,Regular,None,5%,Quarterly,12-07-2024
+C166,Neelofar Gupta,36,Male,Bengaluru,South,Teacher,Home Decor,Wall Art,28-03-2024,5,1999,9995,UPI,Store,Premium,None,5%,Occasional,21-10-2023
+C167,Veer Gade,41,Female,Bhubaneswar,East,Teacher,Grocery,Organic Food,11-11-2024,1,199,199,Credit Card,Online,Premium,None,15%,Occasional,20-07-2024
+C168,Seher Ramakrishnan,56,Female,Surat,West,Accountant,Electronics,Headphones,05-04-2024,3,2999,8997,UPI,Store,Regular,None,0%,Monthly,04-11-2023
+C169,Alia Shanker,49,Male,Jaipur,North,Teacher,Home Decor,Wall Art,04-11-2024,2,999,1998,Credit Card,Store,Regular,None,10%,Occasional,27-08-2024
+C170,Badal Biswas,30,Female,Ahmedabad,West,Teacher,Grocery,Cooking Oil,31-08-2025,2,2499,4998,Credit Card,Store,Premium,None,10%,Occasional,26-03-2025
+C171,Lakshay Dayal,38,Male,Bhubaneswar,East,Designer,Home Decor,Curtains,19-05-2024,4,4999,19996,Debit Card,Online,Regular,Bronze,10%,Occasional,03-03-2024
+C172,Vivaan Krishnan,54,Male,Chandigarh,North,Sales Executive,Grocery,Snacks,08-01-2025,3,1999,5997,Net Banking,Online,Budget,Gold,15%,Monthly,09-12-2024
+C173,Onkar Deo,37,Male,Hyderabad,South,Business Owner,Grocery,Organic Food,22-05-2024,4,2499,9996,Credit Card,Store,Regular,Gold,15%,Occasional,11-12-2023
+C174,Himmat Rout,62,Male,Bengaluru,South,Teacher,Beauty,Shampoo,07-02-2024,4,2999,11996,Credit Card,Store,Premium,Gold,20%,Occasional,06-11-2023
+C175,Siya Chokshi,50,Male,Bhubaneswar,East,Designer,Home Decor,Lamp,21-09-2024,1,299,299,Debit Card,Store,Regular,Silver,10%,Weekly,26-07-2024
+C176,Hridaan Bhatti,40,Female,Kochi,South,Doctor,Electronics,Bluetooth Speaker,28-04-2024,4,299,1196,Cash,Online,Budget,None,10%,Occasional,22-03-2024
+C177,Reyansh Shukla,63,Male,Surat,West,Engineer,Home Decor,Vase,03-11-2024,3,299,897,Debit Card,Online,Budget,Silver,5%,Monthly,22-10-2024
+C178,Riya Kothari,58,Male,Jaipur,North,Student,Grocery,Beverages,25-08-2024,4,2499,9996,Cash,Store,Premium,Silver,15%,Occasional,13-05-2024
+C179,Indrajit Keer,54,Male,Bengaluru,South,Consultant,Electronics,Smart Watch,21-12-2025,2,999,1998,Credit Card,Store,Regular,Silver,15%,Weekly,04-12-2025
+C180,Fateh Halder,43,Male,Kolkata,East,Doctor,Home Decor,Cushion Set,01-02-2025,3,4999,14997,Debit Card,Store,Budget,Silver,10%,Weekly,28-08-2024
+C181,Prisha Krishnamurthy,41,Male,Delhi,North,Consultant,Grocery,Organic Food,29-04-2024,2,999,1998,Cash,Store,Budget,Silver,20%,Occasional,13-03-2024
+C182,Rania Tella,49,Female,Chennai,South,Student,Fashion,Sneakers,22-07-2025,5,499,2495,Credit Card,Store,Regular,Gold,10%,Weekly,09-06-2025
+C183,Tiya Sarkar,49,Female,Kochi,South,Designer,Fashion,T-Shirt,01-06-2025,4,2999,11996,Cash,Store,Regular,Silver,0%,Weekly,15-12-2024
+C184,Nishith Babu,28,Female,Chandigarh,North,Sales Executive,Grocery,Organic Food,04-07-2025,3,799,2397,Cash,Online,Budget,Gold,10%,Quarterly,21-04-2025
+C185,Elakshi Mandal,33,Female,Pune,West,Engineer,Home Decor,Cushion Set,14-04-2024,2,1999,3998,Cash,Store,Regular,Gold,15%,Weekly,29-10-2023
+C186,Lakshay Vig,28,Male,Chandigarh,North,Manager,Fashion,Jacket,09-10-2025,3,4999,14997,Credit Card,Online,Budget,Bronze,20%,Quarterly,21-06-2025
+C187,Kimaya Sampath,61,Male,Jaipur,North,Student,Grocery,Cooking Oil,30-09-2024,3,4999,14997,Cash,Online,Regular,Silver,5%,Monthly,21-05-2024
+C188,Raunak Ratta,58,Female,Delhi,North,Accountant,Grocery,Rice Pack,25-05-2024,4,2499,9996,Cash,Store,Premium,Gold,15%,Quarterly,29-12-2023
+C189,Anvi Gupta,64,Female,Ranchi,East,Doctor,Home Decor,Vase,03-01-2024,3,4999,14997,UPI,Store,Premium,None,5%,Occasional,10-12-2023
+C190,Divit Venkatesh,54,Female,Kolkata,East,Doctor,Grocery,Cooking Oil,14-08-2025,3,2999,8997,UPI,Online,Premium,None,0%,Weekly,11-07-2025
+C191,Eva Bajaj,26,Female,Jaipur,North,Student,Home Decor,Vase,26-07-2024,1,1999,1999,Debit Card,Online,Budget,Bronze,10%,Weekly,31-01-2024
+C192,Heer Warrior,45,Male,Ranchi,East,Teacher,Fashion,Handbag,17-12-2025,4,999,3996,UPI,Online,Regular,Gold,5%,Monthly,18-10-2025
+C193,Hrishita Ram,26,Female,Hyderabad,South,Teacher,Electronics,Headphones,08-03-2025,3,299,897,Credit Card,Store,Premium,Gold,0%,Quarterly,11-09-2024
+C194,Nitara Shanker,27,Male,Ranchi,East,Consultant,Grocery,Rice Pack,18-10-2025,4,499,1996,Net Banking,Online,Budget,Silver,15%,Quarterly,27-04-2025
+C195,Tiya Madan,24,Male,Lucknow,North,Teacher,Fashion,Sneakers,10-08-2024,5,2499,12495,Net Banking,Store,Regular,None,10%,Monthly,18-07-2024
+C196,Nirvaan Yogi,64,Female,Chandigarh,North,Engineer,Grocery,Organic Food,07-09-2025,2,2999,5998,Debit Card,Online,Budget,Silver,15%,Quarterly,06-04-2025
+C197,Samaira Bhalla,58,Male,Pune,West,Consultant,Fashion,Sneakers,03-09-2024,4,299,1196,UPI,Store,Regular,Silver,15%,Occasional,28-04-2024
+C198,Dharmajan Apte,22,Male,Ranchi,East,Business Owner,Beauty,Perfume,18-01-2024,4,299,1196,Credit Card,Online,Premium,None,20%,Quarterly,20-08-2023
+C199,Kiara Keer,27,Female,Chennai,South,Teacher,Home Decor,Vase,04-07-2025,1,2999,2999,Debit Card,Online,Budget,Silver,5%,Quarterly,27-01-2025
+C200,Adah Kale,33,Male,Bengaluru,South,Accountant,Beauty,Face Wash,01-09-2024,3,1999,5997,UPI,Store,Budget,Gold,10%,Monthly,17-08-2024
